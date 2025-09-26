@@ -32,6 +32,7 @@ All placed props are saved in the database.
 4. Add the resource to your `server.cfg` after ox_lib, qb-core, inventory and target:  
    ```cfg
    ensure ox_lib
+   ensure qb-core
    ensure ox_inventory
    ensure ox_target
    ensure hugo_furniture
