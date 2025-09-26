@@ -35,5 +35,6 @@ All placed props are saved in the database.
    ensure qb-core
    ensure ox_inventory
    ensure ox_target
+   ensure object_gizmo
    ensure hugo_furniture
 5. Done 🎉
