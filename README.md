@@ -4,6 +4,8 @@ A simple **furniture & prop placement system** for QBCore.
 Players can place down furniture and equipment from items, interact with them through target menus, and use props as stashes with configurable size/weight.
 All placed props are saved in the database.
 
+Tebex Store: https://huggeeez-webstore.tebex.io/
+
 ---
 
 ## ✨ Features
